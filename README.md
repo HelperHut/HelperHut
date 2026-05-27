@@ -1,83 +1,98 @@
-# 🚀 Digital Solutions Company
+### 🌐 Frontend Development 🎨
 
-A forward-thinking digital solutions company helping businesses **establish, grow, and optimize** their online presence through innovative technology and creative strategies.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0F172A?style=for-the-badge)
+![Web Semantics](https://img.shields.io/badge/Web_Semantics-0F172A?style=for-the-badge)
+![DevTools](https://img.shields.io/badge/Chrome_DevTools-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)
 
----
+![Flexbox](https://img.shields.io/badge/Flexbox-0F172A?style=for-the-badge)
+![Grid](https://img.shields.io/badge/CSS_Grid-0F172A?style=for-the-badge)
+![SASS](https://img.shields.io/badge/SASS/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🌐 About Us
+![DOM](https://img.shields.io/badge/DOM_Manipulation-0F172A?style=for-the-badge)
+![Fetch API](https://img.shields.io/badge/Fetch_API_AJAX-0F172A?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON_Handling-0F172A?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX_Basics-0F172A?style=for-the-badge)
+![Accessibility](https://img.shields.io/badge/Accessibility-a11y-0F172A?style=for-the-badge)
 
-We are a modern digital agency focused on building powerful digital products and delivering high-quality solutions that help businesses scale in the online world. From websites to mobile apps and full-stack platforms, we turn ideas into reality.
 
----
 
-## 🛠️ Services
+### ⚛️ Frontend Frameworks & Libraries
 
-✔ Web Development  
-✔ Mobile App Development  
-✔ Game Development  
-✔ Graphic Design  
-✔ SEO Services  
-✔ Online Business Management  
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
----
 
-## 💻 Tech Stack
 
-### 🌍 Web Development
-- React.js  
-- Next.js  
-- Node.js  
-- Express.js  
-- MongoDB  
-- Firebase  
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- Bootstrap  
-- Tailwind CSS  
+### 🖥️ Backend Development
 
-### 📱 Mobile Development
-- React Native  
-- Firebase Integration  
-- REST APIs  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-0F172A?style=for-the-badge)
 
-### 🎮 Game Development
-- Basic Game Logic Development  
-- Interactive UI/UX Design  
 
-### 🎨 Design Tools
-- Adobe Photoshop  
-- Illustrator  
-- Figma  
 
----
+### 🗄️ Databases
 
-## 🚀 Our Mission
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-To empower businesses with scalable, modern, and efficient digital solutions that drive real growth and long-term success.
 
----
+### ☁️ DevOps & Deployment
 
-## 📈 Why Choose Us?
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- Clean & modern UI/UX design  
-- Scalable full-stack applications  
-- Fast delivery & optimized performance  
-- Business-focused digital strategies  
-- Continuous support & improvement  
 
----
 
-## 📞 Contact
+### 🌐 APIs & Communication
 
-> Add your contact details here
+![REST](https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-0F172A?style=for-the-badge)
 
-- Email: your@email.com  
-- Website: https://yourwebsite.com  
-- GitHub: https://github.com/yourprofile  
 
----
+### 🧠 Programming Fundamentals
 
-## ⭐ Let's Build Something Amazing Together
+![DSA](https://img.shields.io/badge/Data_Structures-0F172A?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-0F172A?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-0F172A?style=for-the-badge)
 
-We turn ideas into powerful digital products.
+
+### 🧪 Testing & Tools
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+### 🛠️ Tools & Design
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+
+
+### 🚀 Advanced Concepts
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-0F172A?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO_Basics-0F172A?style=for-the-badge)
+![SSR](https://img.shields.io/badge/SSR-0F172A?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge)
