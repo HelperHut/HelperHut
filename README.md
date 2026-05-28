@@ -1,5 +1,5 @@
-Web Development Skills :
-
+**Web Development Skills :**
+<p align="justify">
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -50,3 +50,9 @@ Web Development Skills :
 ![SEO](https://img.shields.io/badge/SEO_Basics-0F172A?style=for-the-badge)
 ![SSR](https://img.shields.io/badge/SSR-0F172A?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge)
+</p>
+
+<p align="justify">
+A curated list of technologies, tools, and concepts used in modern web development. This includes frontend, backend, databases, authentication systems, and development tools used to build scalable applications.
+</p>
+
