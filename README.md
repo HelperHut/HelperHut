@@ -50,5 +50,3 @@ Web Development Skills :
 ![SEO](https://img.shields.io/badge/SEO_Basics-0F172A?style=for-the-badge)
 ![SSR](https://img.shields.io/badge/SSR-0F172A?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge)
-
-website:helper-hut.com
